@@ -42,7 +42,7 @@
 <body>
 
   <div class="heart">❤️</div>
-  <div class="message" id="msg">Pacarmu lagi kangen berat nih 😭</div>
+  <div class="message" id="msg">Pacar tercintamu lagi kangen berat nih 😭</div>
   <button onclick="showLove()">Klik kalau kamu juga kangen</button>
 
   <script>
