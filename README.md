@@ -1,3 +1,6 @@
+<img width="766" height="1024" alt="2b2bb488-de89-4706-912f-3ab132f18d67" src="https://github.com/user-attachments/assets/8fae055b-dd8f-4de2-9330-c1c7519020a9" />
+
+
 # 👋 Halo, Selamat Datang di Profil Saya!
 
 <p align="center">
