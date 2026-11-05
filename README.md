@@ -2,7 +2,7 @@
 # 👋 Halow, Selamat Datang di Profil Saya :')
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/1?v=4" width="120px" style="border-radius: 50%;" alt="Avatar"/>
+  <img width="3880" height="5184" alt="1644794004013" src="https://github.com/user-attachments/assets/9b869f1c-e7d1-4e37-90ed-df8aa76ab5b6" />
 </p>
 
 <p align="center">
